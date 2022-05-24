@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there, I'm [Galih](https://galihpratama.com)! 👋
 
-<h1 align="center">Hi 👋, I'm Aswan</h1>
-- 🔭 I’m currently at **Electronics and Devices Laboratory of Hasanuddin University as a PCB Designer. Also as a freelancer back end web developer.**
-
-- 🌱 I’m currently learning **Laravel, IOT & PCB Design**
-
-- 👯 I’m looking to **collaborate on any open source projects related to PHP, Laravel and JavaScript (VueJS preferrable).**
+- 🔭 I’m currently at Electronics and Devices Laboratory of Hasanuddin University as a PCB Designer. Also as a freelancer back end web developer.
+- 🌱 I’m currently learning Laravel, IOT & PCB Design.
+- 👯 I’m looking to collaborate on any open source projects related to PHP, Laravel and JavaScript (VueJS preferrable).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
