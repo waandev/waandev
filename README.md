@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [Galih](https://galihpratama.com)! 👋
+### Hi there, I'm **Aswan** 👋
 
 - 🔭 I’m currently at Electronics and Devices Laboratory of Hasanuddin University as a PCB Designer. Also as a freelancer back end web developer.
 - 🌱 I’m currently learning Laravel, IOT & PCB Design.
