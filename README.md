@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm **Aswan** 👋
 
-- 🔭 I’m currently at Electronics and Devices Laboratory of Hasanuddin University as a PCB Designer. Also as a freelancer web developer.
-- 🌱 I’m currently learning Laravel, IOT & PCB Design.
+- 🔭 I’m currently at PT Minasa Elektro-Sains Teknologi as a web developer.
+- 🌱 I’m currently learning MERN Stack, Laravel, IOT & PCB Design.
 - 👯 I’m looking to collaborate on any open source projects related to PHP, Laravel and JavaScript (MERN Stack).
-- 📫 How to reach me: Reach out to me directly through my [LinkedIn](https://www.linkedin.com/in/muhammad-aswan-666502156/), [Instagram](https://www.instagram.com/ibnu_mahadi19/) or [WhatsApp](https://wa.me/6285394518769)
+- 📫 How to reach me: Reach out to me directly through my [LinkedIn](https://www.linkedin.com/in/muhammad-aswan-666502156/), [Instagram](https://www.instagram.com/waan.dev/) or [WhatsApp](https://wa.me/6285394518769)
 
 
 <h3 align="left">Languages and Tools:</h3>
