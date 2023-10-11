@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm **Aswan** 👋
 
-- 🔭 I’m currently at PT Minasa Elektro-Sains Teknologi as a web developer.
+- 🔭 I’m a Freelancer.
 - 🌱 I’m currently learning Flutter, MERN Stack, Laravel, IOT & PCB Design.
 - 👯 I’m looking to collaborate on any open source projects related to PHP, Laravel, JavaScript (MERN Stack), and Dart (Flutter).
 - 📫 How to reach me: Reach out to me directly through my [LinkedIn](https://www.linkedin.com/in/muhammad-aswan-666502156/), [Instagram](https://www.instagram.com/waan.dev/) or [WhatsApp](https://wa.me/6285394518769)
